@@ -39,7 +39,7 @@ const information = {
   'e39': 'bowl',
   'e40': 'eye',
   'e41': 'counter (open)',
-  'e42': 'arm',
+  'e42': 'arme',
   'e43': 'stress',
   'e44': 'serif',
   'e45': 'ligature',

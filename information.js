@@ -1,5 +1,5 @@
 const information = {
-  'e1': 'tittle',
+  'e1': 'Punkt',
   'e2': 'shoulder',
   'e3': 'aperture',
   'e4': 'stem',

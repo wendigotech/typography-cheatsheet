@@ -32,7 +32,7 @@ const information = {
   'e31': 'zweiseitige Serifen',
   'e32': 'zweiseitige Serifen',
   'e33': 'Bein',
-  'e34': 'counter (closed)',
+  'e34': 'Punze(geschlossen)',
   'e35': 'Aufstrich/Haarstrich',
   'e36': 'crotch',
   'e37': 'Bein',

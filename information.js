@@ -12,7 +12,7 @@ const information = {
   'e11': 'Querstrich',
   'e12': 'Bauch',
   'e13': 'Tropfen',
-  'e14': 'terminal',
+  'e14': 'Tropfen',
   'e15': 'Schleife',
   'e16': 'Steg/Hals',
   'e17': 'ear',

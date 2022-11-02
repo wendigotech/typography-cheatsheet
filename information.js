@@ -7,7 +7,7 @@ const information = {
   'e6': 'Schattenachse',
   'e7': 'Schulter',
   'e8': 'ascender',
-  'e9': 'descender',
+  'e9': 'Unterlänge',
   'e10': 'Auslauf',
   'e11': 'Querstrich',
   'e12': 'Bauch',

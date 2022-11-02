@@ -42,7 +42,7 @@ const information = {
   'e42': 'Arm',
   'e43': 'stress',
   'e44': 'serif',
-  'e45': 'ligature',
+  'e45': 'Ligatur',
   'e46': 'beak',
   'e47': 'spine',
   'e48': 'head serif',

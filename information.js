@@ -6,7 +6,7 @@ const information = {
   'e5': 'spur',
   'e6': 'Schattenachse',
   'e7': 'Schulter',
-  'e8': 'ascender',
+  'e8': 'Oberlänge',
   'e9': 'Unterlänge',
   'e10': 'Auslauf',
   'e11': 'Querstrich',

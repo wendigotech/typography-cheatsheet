@@ -38,7 +38,7 @@ const information = {
   'e37': 'Bein',
   'e38': 'Arm',
   'e39': 'bowl',
-  'e40': 'eye',
+  'e40': 'Punze(Auge)',
   'e41': 'counter (open)',
   'e42': 'Arm',
   'e43': 'Bogen',

@@ -13,7 +13,7 @@ const information = {
   'e12': 'Bauch',
   'e13': 'terminal',
   'e14': 'terminal',
-  'e15': 'loop',
+  'e15': 'Schleife',
   'e16': 'Hals',
   'e17': 'ear',
   'e18': 'tail',

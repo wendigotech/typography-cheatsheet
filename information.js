@@ -10,7 +10,7 @@ const information = {
   'e9': 'descender',
   'e10': 'finial',
   'e11': 'crossbar',
-  'e12': 'bowl',
+  'e12': 'Bauch',
   'e13': 'terminal',
   'e14': 'terminal',
   'e15': 'loop',

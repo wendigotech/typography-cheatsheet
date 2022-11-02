@@ -8,7 +8,7 @@ const information = {
   'e7': 'shoulder',
   'e8': 'ascender',
   'e9': 'descender',
-  'e10': 'finial',
+  'e10': 'Auslauf',
   'e11': 'crossbar',
   'e12': 'Bauch',
   'e13': 'terminal',

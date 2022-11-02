@@ -35,7 +35,7 @@ const information = {
   'e34': 'counter (closed)',
   'e35': 'hairline (stroke)',
   'e36': 'crotch',
-  'e37': 'leg',
+  'e37': 'Bein',
   'e38': 'Arm',
   'e39': 'bowl',
   'e40': 'eye',

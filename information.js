@@ -33,7 +33,7 @@ const information = {
   'e32': 'bilateral serif',
   'e33': 'Bein',
   'e34': 'counter (closed)',
-  'e35': 'hairline (stroke)',
+  'e35': 'Aufstrich/Haarstrich',
   'e36': 'crotch',
   'e37': 'Bein',
   'e38': 'Arm',

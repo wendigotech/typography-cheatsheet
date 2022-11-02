@@ -15,7 +15,7 @@ const information = {
   'e14': 'Tropfen',
   'e15': 'Schleife',
   'e16': 'Steg/Hals',
-  'e17': 'ear',
+  'e17': 'Fähnchen(Ohr)',
   'e18': 'tail',
   'e19': 'Querstrich',
   'e20': 'apex',

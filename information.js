@@ -2,7 +2,7 @@ const information = {
   'e1': 'Punkt',
   'e2': 'shoulder',
   'e3': 'aperture',
-  'e4': 'stem',
+  'e4': 'Stamm',
   'e5': 'spur',
   'e6': 'axis',
   'e7': 'shoulder',

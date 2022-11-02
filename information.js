@@ -41,7 +41,7 @@ const information = {
   'e40': 'eye',
   'e41': 'counter (open)',
   'e42': 'Arm',
-  'e43': 'stress',
+  'e43': 'Bogen',
   'e44': 'serif',
   'e45': 'Ligatur',
   'e46': 'beak',

@@ -45,7 +45,7 @@ const information = {
   'e44': 'serif',
   'e45': 'Ligatur',
   'e46': 'beak',
-  'e47': 'spine',
+  'e47': 'Kurve',
   'e48': 'head serif',
   'e49': 'head serif'
 }

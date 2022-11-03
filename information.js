@@ -1,7 +1,7 @@
 const information = {
   'e1': 'Punkt',
   'e2': 'shoulder',
-  'e3': 'aperture',
+  'e3': 'Punze mit Öffnung',
   'e4': 'Stamm',
   'e5': 'spur',
   'e6': 'Schattenachse',
